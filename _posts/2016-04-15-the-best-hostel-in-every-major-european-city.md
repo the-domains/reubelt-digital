@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T22:27:02.191Z'
+datePublished: '2016-08-25T22:32:47.508Z'
 sourcePath: _posts/2016-04-15-the-best-hostel-in-every-major-european-city.md
 inFeed: true
 isBasedOnUrl: >-
@@ -25,7 +25,8 @@ author:
   - name: '@barbarawoolsey'
     url: 'https://www.twitter.com/@barbarawoolsey'
     avatar: {}
-dateModified: '2016-08-25T22:27:01.280Z'
+via: {}
+dateModified: '2016-08-25T22:32:46.980Z'
 title: The Best Hostel in Every Major European City
 app_links:
   - namespace: twitter
@@ -42,10 +43,9 @@ description: >-
   builds character like fighting for power outlets,&hellip;
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Best Hostel in Every Major European City</h1><p>Staying at hostels was once a backpacker's rite of passage. After all, nothing builds character like fighting for power outlets,&amp;hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64c6b94d156dc880d5a3bde273b4b321f30df92e.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64c6b94d156dc880d5a3bde273b4b321f30df92e.jpg" /><h1>The Best Hostel in Every Major European City</h1><p>Staying at hostels was once a backpacker's rite of passage. After all, nothing builds character like fighting for power outlets,&amp;hellip;</p></article>
